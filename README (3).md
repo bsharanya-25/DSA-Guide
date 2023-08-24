@@ -1,4 +1,4 @@
-# Getting Started with Data Structures and Algorithms (DSA) - Step by Step Guide
+# Getting Started with Data Structures and Algorithms (DSA) - Step-by-Step Guide
 
 ## Introduction to DSA:
 Understand the significance of DSA in problem-solving and software development.
@@ -10,7 +10,7 @@ Familiarize yourself with a programming language (Python, Java, C++) and its syn
 Begin with simple algorithms like linear search, binary search, and sorting (bubble, selection).
 
 ### Arrays and Strings:
-Learn to manipulate arrays, strings, and solve related problems to strengthen fundamentals.
+Learn to manipulate arrays,strings, and solve related problems to strengthen fundamentals.
 
 ### Linked Lists:
 Study singly and doubly linked lists, operations, and solving exercises involving them.
@@ -19,10 +19,10 @@ Study singly and doubly linked lists, operations, and solving exercises involvin
 Grasp stack and queue concepts, operations, and practice problems involving them.
 
 ### Recursion:
-Understand recursion, its advantages, solve recursive problems, and learn to think recursively.
+Understand recursion, and its advantages, solve recursive problems, and learn to think recursively.
 
 ### Trees and Graphs:
-Explore binary trees, traversal techniques, and basics of graphs and their representation.
+Explore binary trees, traversal techniques, and the basics of graphs and their representation.
 
 ### Searching and Sorting:
 Dive deeper into more efficient sorting algorithms (merge, quick) and advanced searching techniques.
